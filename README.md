@@ -9,7 +9,7 @@
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](screenshot.png)
+!(screenshot.png)
 
 ---
 
@@ -37,18 +37,6 @@
 ## 🚀 Live Demo
 
 Check it out here: [Portfolio Website](https://sanjuuhh.github.io/My-Portfolio-Website/)
-
----
-
-## 📁 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/SANJUUHH/your-portfolio-repo.git
-```
-
-2. Open `index.html` in your browser.
 
 ---
 
