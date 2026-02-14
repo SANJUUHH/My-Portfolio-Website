@@ -9,7 +9,8 @@
 
 ## 📸 Screenshot
 
-(screenshot.png)
+![Portfolio Screenshot](screenshot.png)
+
 
 ---
 
